@@ -10,10 +10,12 @@ MAP_FILE = "map.csv"
 QR_OUTPUT_DIR = "qrs"
 HTML_OUTPUT_DIR = "docs"
 
-QR_SIZE_PIXELS = 400         # Base size of QR code image (approx)
-FONT = "DejaVu-Sans"         # Change if you have a preferred font installed
-FONT_SIZE = 24
-BOTTOM_MARGIN = 60           # Space below QR for the text
+QR_SIZE_PIXELS = 670         # Base size of QR code image (approx)
+
+
+FONT = "/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf"
+FONT_SIZE = 48
+BOTTOM_MARGIN = 30           # Space below QR for the text
 
 # Set this to your GitHub Pages base URL
 HTML_BASE_URL = "https://jonathanclarke.github.io/anders-and-manisha-memories"
