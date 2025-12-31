@@ -18,7 +18,17 @@
 
 * [Adrian](https://jonathanclarke.github.io/anders-and-manisha-memories/009.html)
 
+* [Susie Thapa](https://jonathanclarke.github.io/anders-and-manisha-memories/010.html)
 
+* [Kisu & Jonathan](https://jonathanclarke.github.io/anders-and-manisha-memories/011.html)
+
+* [Corey O'Hara](https://jonathanclarke.github.io/anders-and-manisha-memories/012.html)
+
+* [Michelle Lama](https://jonathanclarke.github.io/anders-and-manisha-memories/013.html)
+
+* [Stefan Guertin](https://jonathanclarke.github.io/anders-and-manisha-memories/014.html)
+
+* [Aradhana Gurung](https://jonathanclarke.github.io/anders-and-manisha-memories/015.html)
 ### QR Code generation
 
 	ruby generate.rb

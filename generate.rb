@@ -14,7 +14,7 @@ QR_SIZE_PIXELS = 670         # Base size of QR code image (approx)
 
 
 FONT = "/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf"
-FONT_SIZE = 48
+FONT_SIZE = 72
 BOTTOM_MARGIN = 30           # Space below QR for the text
 
 # Set this to your GitHub Pages base URL
